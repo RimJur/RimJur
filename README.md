@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RimJur
-- 🌱 Stack: Django + TailwindCSS + HTMX + AlpineJS
+- 🌱 Stack: Go + TailwindCSS + HTMX
 - 🛶 Developing https://upemis.lt
 - 📫 How to reach me: rimgaudas.jurgaitis@gmail.com
 
